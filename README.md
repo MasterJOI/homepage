@@ -9,5 +9,3 @@ My very own personal website. Basically this is just a résumé.
 
 # License:
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
-🧙Hocus-pocus!
