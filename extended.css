@@ -1,0 +1,72 @@
+main {
+	background: url(assets/images/fon.jpg)  no-repeat center center fixed;
+	background-size: cover;
+	margin:0px; 
+	padding:0px;
+}
+/* Wave */
+#wave {
+	height: 4em;
+	box-sizing: content-box;
+	background: transparent;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+#wave svg {
+	color: rgba(26, 125, 102, 0.68);
+	display: block;
+	position: relative;
+}
+
+/* Credits */
+.credits {
+	text-align: right;
+	padding: 0.5em 0.75em;
+	line-height: 1em;
+	transition: opacity 0.2s linear;
+	position: absolute;
+	top: 1em;
+	right: 1em;
+	color: white;
+	background: rgb(38, 38, 38);
+	border-radius: 15px;
+	transition: all 0.2s linear;
+}
+.credits:not(:hover) a {
+	color: rgb(28, 252, 200);
+}
+.credits:hover {
+	color:black;
+	background: white;
+}
+/*img*/
+.responsive {
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+}
+/*hidden list*/
+.sub-menu 
+{ 
+	display: none; 
+} 
+.main-item:focus ~ .sub-menu, 
+.main-item:active ~ .sub-menu, 
+.sub-menu:hover 
+{ 
+	display: block; 
+}
+/*strong labels*/
+.summary strong {
+	padding: 0 10px;
+	border-radius: 10px;
+	background: rgba(38, 191, 156, 0.68);
+}
+/*add background to ten wide column*/
+#with_background {
+	padding: 0 5px;
+	border-radius: 5px;
+	background: rgba(69, 140, 124, 0.14);
+}
