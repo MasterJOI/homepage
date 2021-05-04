@@ -1,6 +1,7 @@
 # Homepage
-My very own personal website. Basically this is just a résumé.
-
+― Hello👋! My name is Kyryll. I'm novice developer and always curious to learn cutting edge technology. and this is my very own personal website. Basically this is just a résumé.
+# Site preview:
+![Preview](assets/images/preview.jpg)
 # Connect with Me
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&color=2edce8&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/Master_Joi)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100034312132547)
