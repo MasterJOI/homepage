@@ -49,14 +49,20 @@ main {
 	box-shadow: 0 0 7px gray;
 }
 /*hidden list*/
-.sub-menu 
-{ 
+.hide {
 	display: none; 
-} 
-.main-item:focus ~ .sub-menu, 
-.main-item:active ~ .sub-menu, 
-.sub-menu:hover 
-{ 
+}
+.hide + label {
+	color: blue;
+}
+.hide + label ~ div{
+	display: none;
+}
+.hide:checked + label {
+	color: red;
+	border-bottom: 0;
+}
+.hide:checked + label + div {
 	display: block; 
 }
 /*strong labels*/
@@ -73,16 +79,16 @@ main {
 }
 /*Shadow changing*/
 @media only screen {
-  .page:hover {
-    box-shadow: 0 5px 50px 0 rgb(60, 163, 139);
-  }
+	.page:hover {
+		box-shadow: 0 5px 50px 0 rgb(60, 163, 139);
+	}
 }
 /*Avatar*/
 .avatar-wrapper {
-  padding: 0;
+	padding: 0;
 }
 .avatar {
-  border-radius: 50%;
-  border: 2px solid black;
-  margin: 0;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin: 0;
 }
