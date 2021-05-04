@@ -82,6 +82,12 @@ main {
   background: rgba(38, 191, 156, 0.68);
 }
 
+.summary strong:hover {
+  transition: 0.1s linear;
+  color: white;
+  background: rgba(35, 102, 235, 0.71);
+}
+
 /* add background to ten wide column */
 .with_background {
   padding: 0 5px;
