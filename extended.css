@@ -46,6 +46,7 @@ main {
 	width: 100%;
 	max-width: 400px;
 	height: auto;
+	box-shadow: 0 0 7px gray;
 }
 /*hidden list*/
 .sub-menu 
@@ -69,4 +70,19 @@ main {
 	padding: 0 5px;
 	border-radius: 5px;
 	background: rgba(69, 140, 124, 0.14);
+}
+/*Shadow changing*/
+@media only screen {
+  .page:hover {
+    box-shadow: 0 5px 50px 0 rgb(60, 163, 139);
+  }
+}
+/*Avatar*/
+.avatar-wrapper {
+  padding: 0;
+}
+.avatar {
+  border-radius: 50%;
+  border: 2px solid black;
+  margin: 0;
 }
