@@ -1,5 +1,7 @@
 # Homepage
-― Hello👋! My name is Kyryll. I'm novice developer and always curious to learn cutting edge technology. and this is my very own personal website. Basically this is just a résumé.
+― Hello👋! My name is Kyryll.
+
+I'm novice developer and always curious to learn cutting edge technology. and this is my very own personal website. Basically this is just a résumé.
 # Site preview:
 ![Preview](assets/images/preview.jpg)
 # Connect with Me
