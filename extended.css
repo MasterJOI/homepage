@@ -1,5 +1,5 @@
 main {
-  background: url(assets/images/fon.jpg)  no-repeat center center fixed;
+  background: url(assets/images/fon.jpg) no-repeat center center fixed;
   background-size: cover;
   margin: 0 px;
   padding: 0 px;
@@ -53,25 +53,29 @@ main {
   box-shadow: 0 0 7px gray;
 }
 
+.icon {
+  text-align: center;
+}
+
 /* hidden list */
 .hide {
   display: none;
 }
 
-.hide + label {
+.hide+label {
   color: blue;
 }
 
-.hide + label ~ ul {
+.hide+label~ul {
   display: none;
 }
 
-.hide:checked + label {
+.hide:checked+label {
   color: red;
   border-bottom: 0;
 }
 
-.hide:checked + label + ul {
+.hide:checked+label+ul {
   display: block;
 }
 
@@ -86,6 +90,19 @@ main {
   transition: 0.1s linear;
   color: white;
   background: rgba(35, 102, 235, 0.71);
+}
+
+.summary_project strong {
+  padding: 0 10px;
+  border-radius: 10px;
+  color: white;
+  background: rgba(13, 136, 207, 0.68);
+}
+
+.summary_project strong:hover {
+  transition: 0.1s linear;
+  color: black;
+  background: rgba(11, 240, 240, 0.71);
 }
 
 /* add background to ten wide column */
