@@ -129,3 +129,12 @@ main {
   border: 2px solid black;
   margin: 0;
 }
+
+.skills {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.tags p {
+  margin: 0;
+}
