@@ -2,6 +2,7 @@
 # Homepage
 ― Hello👋! My name is Kyryll. I'm novice developer and always curious to learn cutting edge technology. and this is my very own personal website. Basically this is just a résumé.
 # Site preview:
+![Preview](assets/images/preview_img.png)
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&style=flat-square&logoColor=white)](www.linkedin.com/in/kyryll-hlum)
