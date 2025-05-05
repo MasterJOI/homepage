@@ -2,9 +2,10 @@
 # Homepage
 ― Hello👋! My name is Kyryll. I'm novice developer and always curious to learn cutting edge technology. and this is my very own personal website. Basically this is just a résumé.
 # Site preview:
-![Preview](assets/images/preview.png)
+
 # Connect with Me
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&color=2edce8&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/Master_Joi)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&style=flat-square&logoColor=white)](www.linkedin.com/in/kyryll-hlum)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=%20&color=2edce8&logo=Telegram&style=flat-square&logoColor=white)](https://t.me/hlum_k)
 [![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/profile.php?id=100034312132547)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/master__joi/)
 [![glum.kiril@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:glum.kiril@gmail.com)
